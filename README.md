@@ -1,4 +1,4 @@
-# Note Taker
+# Note App
 
 The goal is to create a notes app. The user is shown a start screen that has a button that brings up the main notes app. The user can then insert a note title and text that can be saved or cleared if the user changes their mind. Once the note app is saved then it will appear on the left where it can be reopened.
 
