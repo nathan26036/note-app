@@ -12,7 +12,7 @@ The goal is to create a notes app. The user is shown a start screen that has a b
 * Notes.js also post the title and text that the user inputs
 * Notes.js also pushes the users input to the db.json file to be saved
 
-![Notes app main page with test notes saved]()
+![Notes app main page with test notes saved](https://github.com/nathan26036/note-app/blob/main/images/note_app.PNG)
   
 ## Installation 
 The final code tutorial can be found at https://frozen-wave-03507-b9886967daa0.herokuapp.com/
